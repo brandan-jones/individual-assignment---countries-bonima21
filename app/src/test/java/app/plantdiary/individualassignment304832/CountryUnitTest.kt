@@ -9,6 +9,7 @@ import androidx.lifecycle.Observer
 import app.plantdiary.individualassignment304832.MainViewModel
 import app.plantdiary.individualassignment304832.dto.Country
 import app.plantdiary.individualassignment304832.service.CountryService
+import app.plantdiary.individualassignment304832.ui.theme.MainViewModel
 import io.mockk.MockKAnnotations
 import io.mockk.coEvery
 import io.mockk.coVerify
